@@ -1,5 +1,5 @@
 [**中文说明**](README.md) | [**English**](README_En.md)
-
+<p>我加上的话：一定要严格严格检查版本，>=视作==</p>
 <p align="center">
     <br>
     <img src="assets/Chinese_CLIP_logo_tp_path.svg" width="400" />
