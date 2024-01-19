@@ -1,0 +1,4 @@
+bash run_scripts/zeroshot_eval.sh 0 \
+    C:\Users\yuanx\Desktop\OFA\mydatapath mydataset \
+    ViT-L-14-336 RoBERTa-wwm-ext-base-chinese \
+    C:\Users\yuanx\Desktop\OFA\mydatapath\pretrained_weights\clip_cn_vit-l-14-336.pt
